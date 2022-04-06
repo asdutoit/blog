@@ -51,5 +51,3 @@ export default function Home({ posts }) {
     </div>
   );
 }
-
-// github tests
